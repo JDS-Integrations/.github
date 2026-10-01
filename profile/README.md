@@ -7,8 +7,11 @@ We help businesses connect their data and services to AI tools to augment and si
 ## 🛠️ What we build
 
 - **🤖 MCP Servers** — Connect business data and tools to AI chat assistants like ChatGPT and Claude.
+
 - **🧠 Agent Workflows** — Build AI agents that use tools and complete multi-step business tasks.
+  
 - **⚙️ Workflow Automation** — Reduce repetitive work by automating processes across existing business tools.
+  
 - **🔌 Custom AI Models & API Integrations** — Deploy privately trained lightweight models or integrate proprietary models like ChatGPT, Claude, and Gemini into business systems for task-specific reasoning and decision support.
 
 ## 💡 Examples
